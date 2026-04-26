@@ -1,6 +1,9 @@
 # API de Clientes - Spring Boot
 
-🚀 Projeto desenvolvido para gerenciamento de clientes utilizando Java e Spring Boot.
+## 📌 Sobre o projeto
+API REST desenvolvida para gerenciamento de clientes, com operações CRUD completas.
+
+Este projeto foi criado com foco em praticar desenvolvimento backend com Java e Spring Boot.
 
 ## 📌 Tecnologias utilizadas
 - Java
@@ -29,7 +32,8 @@ PUT /clientes/{id}
 
 ### 🔹 Deletar cliente
 DELETE /clientes/{id}
-
+## 📬 Contato
+LinkedIn: https://www.linkedin.com/in/SEU-LINKhttps://www.linkedin.com/feed/
 ## 📌 Como rodar o projeto
 
 1. Clonar o repositório:
